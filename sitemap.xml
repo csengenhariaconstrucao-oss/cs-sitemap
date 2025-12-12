@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.csengenhariaeconstrucoes.com.br/home</loc>
+    <priority>1.00</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.csengenhariaeconstrucoes.com.br/servi%C3%A7os</loc>
+    <priority>0.90</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.csengenhariaeconstrucoes.com.br/projetos</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.csengenhariaeconstrucoes.com.br/sobre-n%C3%B3s</loc>
+    <priority>0.70</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.csengenhariaeconstrucoes.com.br/contato</loc>
+    <priority>0.60</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+</urlset>
